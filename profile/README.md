@@ -3,7 +3,7 @@
 ## Member
 
 
-| [장세희](https://github.com/julia8024) | [안나영](https://github.com/ahma0) | [장현희](https://github.com/hhJ830) | [이유빈](https://github.com/youbbin) | [강채련](https://github.com/chaeryeon823) | [이지영](https://github.com/jiyoung1814) |
+| [장세희](https://github.com/julia8024) | [안나영](https://github.com/dnya0) | [장현희](https://github.com/hhJ830) | [이유빈](https://github.com/youbbin) | [강채련](https://github.com/chaeryeon823) | [이지영](https://github.com/jiyoung1814) |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <b>iOS Developer</b> | <b>Back-end Developer</b> | <b>Back-end Developer</b> | <b>AI Engineer</b> | <b>Front-end Developer</b> | <b>?</b> |
 | `Swift` `RxSwift` | `Spring` `Java` `Kotlin` | `Spring` `Java` | `Python` `Java` | `React` `JS` | <b>?</b> |
